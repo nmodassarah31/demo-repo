@@ -1,3 +1,3 @@
 # Demo 
 
-first git lesson.
+first git lesson!
